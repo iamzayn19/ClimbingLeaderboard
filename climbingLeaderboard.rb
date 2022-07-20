@@ -39,7 +39,7 @@ def climbingLeaderboard(ranked,player)
   #declaring a ranked array
   ranked=[110,90,90,80,75,60]
   #declaring a player array
-  player=[50,65,102,77,90]
+  player=[50,65,77,90,120]
   #calling the function climbingLeaderboard with ranked and #player parameters
   climbingLeaderboard(ranked,player)
   
